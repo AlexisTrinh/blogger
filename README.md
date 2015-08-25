@@ -1,1 +1,1 @@
-# blogger
+# rails_project
